@@ -80,7 +80,7 @@ different kinetic data sources (so far we use BRENDA only), it will take a while
 trying to pararelize the process as much as possible...
 """
 kineticsParameters = [sys.executable, 'kcats.py', kineticsExportName, organism, proteomeID, brendaEmail, brendaPassword]
-#kineticsPipeline = subprocess.Popen(kineticsParameters)
+kineticsPipeline = subprocess.Popen(kineticsParameters)
 
 """
 In parallel, we then work on the stoichiometric model itself. For this we will use CBMPy, 
