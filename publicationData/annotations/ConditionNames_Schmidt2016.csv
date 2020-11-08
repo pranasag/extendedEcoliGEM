@@ -1,0 +1,13 @@
+csv,name,full_name
+acetate.csv.fvadata.csv,Ac,Acetate
+fructose.csv.fvadata.csv,Fru,Fructose
+fumarate.csv.fvadata.csv,Fum,Fumarate
+galactose.csv.fvadata.csv,Gal,Galactose 
+glucose.csv.fvadata.csv,Glc,Glucose
+glucosamine.csv.fvadata.csv,GlcN,Glucosamine
+glycerol.csv.fvadata.csv,Glyc,Glycerol
+glycerol_aa.csv.fvadata.csv,Glyc + AA,Glycerol + AA
+mannose.csv.fvadata.csv,Man,Mannose
+pyruvate.csv.fvadata.csv,Pyr,Pyruvate
+succ.csv.fvadata.csv,Succ,Succinate
+xylose.csv.fvadata.csv,Xyl,Xylose

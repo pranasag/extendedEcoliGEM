@@ -1,0 +1,4 @@
+csv,name,full_name
+mops-minimal.csv.fvadata.csv,MOPS -AA,MOPS without supplement
+mops-wo-met.csv.fvadata.csv,MOPS -Met,MOPS without methionine
+mops-full.csv.fvadata.csv,MOPS +AA,MOPS with supplement

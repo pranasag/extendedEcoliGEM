@@ -1,0 +1,12 @@
+Reaction ID,Reaction Name,Subsystem,Reaction Formula,Lower Bound,Upper Bound,Gene,Protein
+R_EX_glc__D_e,D-Glucose exchange,None,1 M_glc__D_e <=> ,-19.84,1000,,
+R_EX_co2_e,CO2 exchange,None,1 M_co2_e <=> ,-1000,1000,,
+R_EX_h_e,H+ exchange,None,1 M_h_e <=> ,-1000,1000,,
+R_EX_h2o_e,H2O exchange,None,1 M_h2o_e <=> ,-1000,1000,,
+R_EX_o2_e,O2 exchange,None,1 M_o2_e <=> ,-1000,1000,,
+R_EX_na1_e,Sodium exchange,None,1 M_na1_e <=> ,-50,1000,,
+R_EX_so4_e,Sulfate exchange,None,1 M_so4_e <=> ,-0.286,1000,,
+R_EX_pi_e,Phosphate exchange,None,1 M_pi_e <=> ,-1.32,1000,,
+R_EX_nh4_e,Ammonia exchange,None,1 M_nh4_e <=> ,-9.52,1000,,
+R_EX_k_e,K+ exchange,None,1 M_k_e <=> ,-3.192,1000,,
+R_EX_cl_e,Chloride exchange,None,1 M_cl_e <=> ,-60.567,1000,,

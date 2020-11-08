@@ -1,0 +1,1772 @@
+Subsystem,Protein Association
+Ala and Asp Metabolism,P00509
+Ala and Asp Metabolism,P00805
+Ala and Asp Metabolism,P00963
+Ala and Asp Metabolism,P04693
+Ala and Asp Metabolism,P0A6B4
+Ala and Asp Metabolism,P0A6J5
+Ala and Asp Metabolism,P0A959
+Ala and Asp Metabolism,P0A962
+Ala and Asp Metabolism,P0AC38
+Ala and Asp Metabolism,P22106
+Ala and Asp Metabolism,P29012
+Ala and Asp Metabolism,P37595
+Ala and Asp Metabolism,P77434
+Alternate Carbon Metabolism,P00490
+Alternate Carbon Metabolism,P00634
+Alternate Carbon Metabolism,P00722
+Alternate Carbon Metabolism,P00944
+Alternate Carbon Metabolism,P00946
+Alternate Carbon Metabolism,P05707
+Alternate Carbon Metabolism,P05804
+Alternate Carbon Metabolism,P05847
+Alternate Carbon Metabolism,P06720
+Alternate Carbon Metabolism,P07024
+Alternate Carbon Metabolism,P07102
+Alternate Carbon Metabolism,P08202
+Alternate Carbon Metabolism,P08203
+Alternate Carbon Metabolism,P08204
+Alternate Carbon Metabolism,P08839
+Alternate Carbon Metabolism,P09099
+Alternate Carbon Metabolism,P09147
+Alternate Carbon Metabolism,P09148
+Alternate Carbon Metabolism,P09373
+Alternate Carbon Metabolism,P09424
+Alternate Carbon Metabolism,P0A6F3
+Alternate Carbon Metabolism,P0A6K6
+Alternate Carbon Metabolism,P0A6L0
+Alternate Carbon Metabolism,P0A6L4
+Alternate Carbon Metabolism,P0A6L7
+Alternate Carbon Metabolism,P0A6S7
+Alternate Carbon Metabolism,P0A6T3
+Alternate Carbon Metabolism,P0A759
+Alternate Carbon Metabolism,P0A761
+Alternate Carbon Metabolism,P0A796
+Alternate Carbon Metabolism,P0A8G3
+Alternate Carbon Metabolism,P0A8Y5
+Alternate Carbon Metabolism,P0A9C3
+Alternate Carbon Metabolism,P0A9J6
+Alternate Carbon Metabolism,P0A9M8
+Alternate Carbon Metabolism,P0A9N4
+Alternate Carbon Metabolism,P0A9P9
+Alternate Carbon Metabolism,P0A9Q7
+Alternate Carbon Metabolism,P0A9S1
+Alternate Carbon Metabolism,P0A9S3
+Alternate Carbon Metabolism,P0A9S5
+Alternate Carbon Metabolism,P0A9V8
+Alternate Carbon Metabolism,P0AA04
+Alternate Carbon Metabolism,P0AB74
+Alternate Carbon Metabolism,P0AB87
+Alternate Carbon Metabolism,P0ABQ2
+Alternate Carbon Metabolism,P0ABR5
+Alternate Carbon Metabolism,P0ABR9
+Alternate Carbon Metabolism,P0ABW0
+Alternate Carbon Metabolism,P0AC00
+Alternate Carbon Metabolism,P0AC35
+Alternate Carbon Metabolism,P0ADG4
+Alternate Carbon Metabolism,P0AE22
+Alternate Carbon Metabolism,P0AEP9
+Alternate Carbon Metabolism,P0AES2
+Alternate Carbon Metabolism,P0AET8
+Alternate Carbon Metabolism,P0AEW9
+Alternate Carbon Metabolism,P0AF18
+Alternate Carbon Metabolism,P0AF24
+Alternate Carbon Metabolism,P0AFI0
+Alternate Carbon Metabolism,P0AFP4
+Alternate Carbon Metabolism,P0AG84
+Alternate Carbon Metabolism,P0C7L2
+Alternate Carbon Metabolism,P0C8J6
+Alternate Carbon Metabolism,P0C8J8
+Alternate Carbon Metabolism,P0C8K0
+Alternate Carbon Metabolism,P0CI31
+Alternate Carbon Metabolism,P11553
+Alternate Carbon Metabolism,P11868
+Alternate Carbon Metabolism,P11988
+Alternate Carbon Metabolism,P13482
+Alternate Carbon Metabolism,P14407
+Alternate Carbon Metabolism,P15977
+Alternate Carbon Metabolism,P16679
+Alternate Carbon Metabolism,P16685
+Alternate Carbon Metabolism,P16686
+Alternate Carbon Metabolism,P16687
+Alternate Carbon Metabolism,P16688
+Alternate Carbon Metabolism,P16689
+Alternate Carbon Metabolism,P16690
+Alternate Carbon Metabolism,P16692
+Alternate Carbon Metabolism,P17115
+Alternate Carbon Metabolism,P17411
+Alternate Carbon Metabolism,P19926
+Alternate Carbon Metabolism,P21514
+Alternate Carbon Metabolism,P21517
+Alternate Carbon Metabolism,P22564
+Alternate Carbon Metabolism,P23522
+Alternate Carbon Metabolism,P23883
+Alternate Carbon Metabolism,P23917
+Alternate Carbon Metabolism,P24175
+Alternate Carbon Metabolism,P24215
+Alternate Carbon Metabolism,P24240
+Alternate Carbon Metabolism,P25553
+Alternate Carbon Metabolism,P25718
+Alternate Carbon Metabolism,P26612
+Alternate Carbon Metabolism,P26646
+Alternate Carbon Metabolism,P27250
+Alternate Carbon Metabolism,P27253
+Alternate Carbon Metabolism,P27550
+Alternate Carbon Metabolism,P27848
+Alternate Carbon Metabolism,P28904
+Alternate Carbon Metabolism,P30147
+Alternate Carbon Metabolism,P30863
+Alternate Carbon Metabolism,P31459
+Alternate Carbon Metabolism,P31467
+Alternate Carbon Metabolism,P31660
+Alternate Carbon Metabolism,P31677
+Alternate Carbon Metabolism,P31678
+Alternate Carbon Metabolism,P32138
+Alternate Carbon Metabolism,P32140
+Alternate Carbon Metabolism,P32141
+Alternate Carbon Metabolism,P32143
+Alternate Carbon Metabolism,P32169
+Alternate Carbon Metabolism,P32170
+Alternate Carbon Metabolism,P32171
+Alternate Carbon Metabolism,P32662
+Alternate Carbon Metabolism,P32718
+Alternate Carbon Metabolism,P32719
+Alternate Carbon Metabolism,P33022
+Alternate Carbon Metabolism,P33363
+Alternate Carbon Metabolism,P36683
+Alternate Carbon Metabolism,P36938
+Alternate Carbon Metabolism,P37349
+Alternate Carbon Metabolism,P37351
+Alternate Carbon Metabolism,P37610
+Alternate Carbon Metabolism,P37627
+Alternate Carbon Metabolism,P37646
+Alternate Carbon Metabolism,P37647
+Alternate Carbon Metabolism,P37666
+Alternate Carbon Metabolism,P37672
+Alternate Carbon Metabolism,P37677
+Alternate Carbon Metabolism,P37678
+Alternate Carbon Metabolism,P37679
+Alternate Carbon Metabolism,P37680
+Alternate Carbon Metabolism,P37685
+Alternate Carbon Metabolism,P37766
+Alternate Carbon Metabolism,P37769
+Alternate Carbon Metabolism,P37794
+Alternate Carbon Metabolism,P37906
+Alternate Carbon Metabolism,P38489
+Alternate Carbon Metabolism,P39160
+Alternate Carbon Metabolism,P39208
+Alternate Carbon Metabolism,P39300
+Alternate Carbon Metabolism,P39304
+Alternate Carbon Metabolism,P39305
+Alternate Carbon Metabolism,P39306
+Alternate Carbon Metabolism,P39346
+Alternate Carbon Metabolism,P39358
+Alternate Carbon Metabolism,P39359
+Alternate Carbon Metabolism,P39400
+Alternate Carbon Metabolism,P39451
+Alternate Carbon Metabolism,P39829
+Alternate Carbon Metabolism,P41409
+Alternate Carbon Metabolism,P42604
+Alternate Carbon Metabolism,P42632
+Alternate Carbon Metabolism,P43337
+Alternate Carbon Metabolism,P45395
+Alternate Carbon Metabolism,P45425
+Alternate Carbon Metabolism,P45541
+Alternate Carbon Metabolism,P45543
+Alternate Carbon Metabolism,P46859
+Alternate Carbon Metabolism,P46891
+Alternate Carbon Metabolism,P51020
+Alternate Carbon Metabolism,P52043
+Alternate Carbon Metabolism,P52045
+Alternate Carbon Metabolism,P52073
+Alternate Carbon Metabolism,P52074
+Alternate Carbon Metabolism,P54746
+Alternate Carbon Metabolism,P62601
+Alternate Carbon Metabolism,P66899
+Alternate Carbon Metabolism,P68066
+Alternate Carbon Metabolism,P69902
+Alternate Carbon Metabolism,P69922
+Alternate Carbon Metabolism,P75682
+Alternate Carbon Metabolism,P75691
+Alternate Carbon Metabolism,P75792
+Alternate Carbon Metabolism,P75913
+Alternate Carbon Metabolism,P76014
+Alternate Carbon Metabolism,P76015
+Alternate Carbon Metabolism,P76038
+Alternate Carbon Metabolism,P76077
+Alternate Carbon Metabolism,P76078
+Alternate Carbon Metabolism,P76079
+Alternate Carbon Metabolism,P76080
+Alternate Carbon Metabolism,P76081
+Alternate Carbon Metabolism,P76082
+Alternate Carbon Metabolism,P76083
+Alternate Carbon Metabolism,P76084
+Alternate Carbon Metabolism,P76085
+Alternate Carbon Metabolism,P76113
+Alternate Carbon Metabolism,P76129
+Alternate Carbon Metabolism,P76251
+Alternate Carbon Metabolism,P76458
+Alternate Carbon Metabolism,P76459
+Alternate Carbon Metabolism,P76469
+Alternate Carbon Metabolism,P76535
+Alternate Carbon Metabolism,P77044
+Alternate Carbon Metabolism,P77161
+Alternate Carbon Metabolism,P77172
+Alternate Carbon Metabolism,P77181
+Alternate Carbon Metabolism,P77215
+Alternate Carbon Metabolism,P77243
+Alternate Carbon Metabolism,P77247
+Alternate Carbon Metabolism,P77334
+Alternate Carbon Metabolism,P77366
+Alternate Carbon Metabolism,P77397
+Alternate Carbon Metabolism,P77455
+Alternate Carbon Metabolism,P77467
+Alternate Carbon Metabolism,P77475
+Alternate Carbon Metabolism,P77495
+Alternate Carbon Metabolism,P77526
+Alternate Carbon Metabolism,P77541
+Alternate Carbon Metabolism,P77555
+Alternate Carbon Metabolism,P77596
+Alternate Carbon Metabolism,P77608
+Alternate Carbon Metabolism,P77625
+Alternate Carbon Metabolism,P77650
+Alternate Carbon Metabolism,P77791
+Alternate Carbon Metabolism,P78061
+Alternate Carbon Metabolism,P80668
+Alternate Carbon Metabolism,Q46806
+Alternate Carbon Metabolism,Q46829
+Alternate Carbon Metabolism,Q46845
+Alternate Carbon Metabolism,Q46856
+Alternate Carbon Metabolism,Q46857
+Alternate Carbon Metabolism,Q46890
+Alternate Carbon Metabolism,Q46915
+Alternate Carbon Metabolism,Q47140
+Alternate Carbon Metabolism,Q6BF16
+Alternate Carbon Metabolism,Q6BF17
+Anaplerotic Reactions,P00864
+Anaplerotic Reactions,P08997
+Anaplerotic Reactions,P0A7A9
+Anaplerotic Reactions,P0A840
+Anaplerotic Reactions,P0A9G6
+Anaplerotic Reactions,P0AFL6
+Anaplerotic Reactions,P22259
+Anaplerotic Reactions,P26616
+Anaplerotic Reactions,P37330
+Anaplerotic Reactions,P76558
+Arg and Pro Metabolism,P00968
+Arg and Pro Metabolism,P04391
+Arg and Pro Metabolism,P04825
+Arg and Pro Metabolism,P06960
+Arg and Pro Metabolism,P07004
+Arg and Pro Metabolism,P09158
+Arg and Pro Metabolism,P09546
+Arg and Pro Metabolism,P0A6C5
+Arg and Pro Metabolism,P0A6C8
+Arg and Pro Metabolism,P0A6E4
+Arg and Pro Metabolism,P0A6F1
+Arg and Pro Metabolism,P0A7B5
+Arg and Pro Metabolism,P0A7F6
+Arg and Pro Metabolism,P0A951
+Arg and Pro Metabolism,P0A9L8
+Arg and Pro Metabolism,P0A9V8
+Arg and Pro Metabolism,P0AE37
+Arg and Pro Metabolism,P0AES0
+Arg and Pro Metabolism,P0AF12
+Arg and Pro Metabolism,P11446
+Arg and Pro Metabolism,P11447
+Arg and Pro Metabolism,P15288
+Arg and Pro Metabolism,P18335
+Arg and Pro Metabolism,P21169
+Arg and Pro Metabolism,P21170
+Arg and Pro Metabolism,P22256
+Arg and Pro Metabolism,P23908
+Arg and Pro Metabolism,P24169
+Arg and Pro Metabolism,P25526
+Arg and Pro Metabolism,P28629
+Arg and Pro Metabolism,P37095
+Arg and Pro Metabolism,P42588
+Arg and Pro Metabolism,P50457
+Arg and Pro Metabolism,P60651
+Arg and Pro Metabolism,P68767
+Arg and Pro Metabolism,P76149
+Arg and Pro Metabolism,P76215
+Arg and Pro Metabolism,P76216
+Arg and Pro Metabolism,P76217
+Arg and Pro Metabolism,P77581
+Arg and Pro Metabolism,P77674
+Cell Envelope Biosynthesis,P07862
+Cell Envelope Biosynthesis,P08373
+Cell Envelope Biosynthesis,P0A6A8
+Cell Envelope Biosynthesis,P0A6J8
+Cell Envelope Biosynthesis,P0A6Q3
+Cell Envelope Biosynthesis,P0A6Q6
+Cell Envelope Biosynthesis,P0A6W3
+Cell Envelope Biosynthesis,P0A749
+Cell Envelope Biosynthesis,P0A924
+Cell Envelope Biosynthesis,P0A953
+Cell Envelope Biosynthesis,P0AAI5
+Cell Envelope Biosynthesis,P0AC78
+Cell Envelope Biosynthesis,P0AC88
+Cell Envelope Biosynthesis,P0ACC7
+Cell Envelope Biosynthesis,P0ADG4
+Cell Envelope Biosynthesis,P0AEJ6
+Cell Envelope Biosynthesis,P0AEK2
+Cell Envelope Biosynthesis,P0AEK4
+Cell Envelope Biosynthesis,P0AEP3
+Cell Envelope Biosynthesis,P0AGG2
+Cell Envelope Biosynthesis,P11880
+Cell Envelope Biosynthesis,P14900
+Cell Envelope Biosynthesis,P17169
+Cell Envelope Biosynthesis,P17443
+Cell Envelope Biosynthesis,P17952
+Cell Envelope Biosynthesis,P19636
+Cell Envelope Biosynthesis,P21515
+Cell Envelope Biosynthesis,P22188
+Cell Envelope Biosynthesis,P22634
+Cell Envelope Biosynthesis,P24174
+Cell Envelope Biosynthesis,P27828
+Cell Envelope Biosynthesis,P27829
+Cell Envelope Biosynthesis,P27830
+Cell Envelope Biosynthesis,P27832
+Cell Envelope Biosynthesis,P27833
+Cell Envelope Biosynthesis,P27836
+Cell Envelope Biosynthesis,P31119
+Cell Envelope Biosynthesis,P31120
+Cell Envelope Biosynthesis,P31434
+Cell Envelope Biosynthesis,P32055
+Cell Envelope Biosynthesis,P32056
+Cell Envelope Biosynthesis,P37128
+Cell Envelope Biosynthesis,P37744
+Cell Envelope Biosynthesis,P37745
+Cell Envelope Biosynthesis,P37747
+Cell Envelope Biosynthesis,P37759
+Cell Envelope Biosynthesis,P37760
+Cell Envelope Biosynthesis,P38135
+Cell Envelope Biosynthesis,P56258
+Cell Envelope Biosynthesis,P60932
+Cell Envelope Biosynthesis,P61887
+Cell Envelope Biosynthesis,P69432
+Cell Envelope Biosynthesis,P69451
+Cell Envelope Biosynthesis,P71241
+Cell Envelope Biosynthesis,P75806
+Cell Envelope Biosynthesis,P75905
+Cell Envelope Biosynthesis,P76373
+Cell Envelope Biosynthesis,Q46938
+Citric Acid Cycle,P00363
+Citric Acid Cycle,P05042
+Citric Acid Cycle,P08200
+Citric Acid Cycle,P0A6G5
+Citric Acid Cycle,P0A836
+Citric Acid Cycle,P0A8Q0
+Citric Acid Cycle,P0A8Q3
+Citric Acid Cycle,P0A9I1
+Citric Acid Cycle,P0A9P0
+Citric Acid Cycle,P0ABH7
+Citric Acid Cycle,P0AC33
+Citric Acid Cycle,P0AC47
+Citric Acid Cycle,P0AFG3
+Citric Acid Cycle,P0AFG6
+Citric Acid Cycle,P0AGE9
+Citric Acid Cycle,P14407
+Citric Acid Cycle,P25516
+Citric Acid Cycle,P33940
+Citric Acid Cycle,P36683
+Citric Acid Cycle,P61889
+Citric Acid Cycle,P69330
+Citric Acid Cycle,P75726
+Cofactor and Prosthetic Group Biosynthesis,O32583
+Cofactor and Prosthetic Group Biosynthesis,P00634
+Cofactor and Prosthetic Group Biosynthesis,P00903
+Cofactor and Prosthetic Group Biosynthesis,P04425
+Cofactor and Prosthetic Group Biosynthesis,P05041
+Cofactor and Prosthetic Group Biosynthesis,P05459
+Cofactor and Prosthetic Group Biosynthesis,P05793
+Cofactor and Prosthetic Group Biosynthesis,P06715
+Cofactor and Prosthetic Group Biosynthesis,P06983
+Cofactor and Prosthetic Group Biosynthesis,P08192
+Cofactor and Prosthetic Group Biosynthesis,P08337
+Cofactor and Prosthetic Group Biosynthesis,P09099
+Cofactor and Prosthetic Group Biosynthesis,P09126
+Cofactor and Prosthetic Group Biosynthesis,P0A6B7
+Cofactor and Prosthetic Group Biosynthesis,P0A6G3
+Cofactor and Prosthetic Group Biosynthesis,P0A6I3
+Cofactor and Prosthetic Group Biosynthesis,P0A6I6
+Cofactor and Prosthetic Group Biosynthesis,P0A6I9
+Cofactor and Prosthetic Group Biosynthesis,P0A6Q6
+Cofactor and Prosthetic Group Biosynthesis,P0A6R0
+Cofactor and Prosthetic Group Biosynthesis,P0A6T5
+Cofactor and Prosthetic Group Biosynthesis,P0A6W9
+Cofactor and Prosthetic Group Biosynthesis,P0A6X1
+Cofactor and Prosthetic Group Biosynthesis,P0A738
+Cofactor and Prosthetic Group Biosynthesis,P0A752
+Cofactor and Prosthetic Group Biosynthesis,P0A790
+Cofactor and Prosthetic Group Biosynthesis,P0A794
+Cofactor and Prosthetic Group Biosynthesis,P0A7B3
+Cofactor and Prosthetic Group Biosynthesis,P0A7I7
+Cofactor and Prosthetic Group Biosynthesis,P0A7J0
+Cofactor and Prosthetic Group Biosynthesis,P0A825
+Cofactor and Prosthetic Group Biosynthesis,P0A887
+Cofactor and Prosthetic Group Biosynthesis,P0A953
+Cofactor and Prosthetic Group Biosynthesis,P0A9B2
+Cofactor and Prosthetic Group Biosynthesis,P0A9B6
+Cofactor and Prosthetic Group Biosynthesis,P0A9H5
+Cofactor and Prosthetic Group Biosynthesis,P0A9J4
+Cofactor and Prosthetic Group Biosynthesis,P0AAB4
+Cofactor and Prosthetic Group Biosynthesis,P0AAC8
+Cofactor and Prosthetic Group Biosynthesis,P0ABQ0
+Cofactor and Prosthetic Group Biosynthesis,P0ABQ4
+Cofactor and Prosthetic Group Biosynthesis,P0ABU0
+Cofactor and Prosthetic Group Biosynthesis,P0ABY4
+Cofactor and Prosthetic Group Biosynthesis,P0AC13
+Cofactor and Prosthetic Group Biosynthesis,P0AC16
+Cofactor and Prosthetic Group Biosynthesis,P0AC19
+Cofactor and Prosthetic Group Biosynthesis,P0ACB2
+Cofactor and Prosthetic Group Biosynthesis,P0ACB4
+Cofactor and Prosthetic Group Biosynthesis,P0ACD4
+Cofactor and Prosthetic Group Biosynthesis,P0AD57
+Cofactor and Prosthetic Group Biosynthesis,P0ADI4
+Cofactor and Prosthetic Group Biosynthesis,P0ADP0
+Cofactor and Prosthetic Group Biosynthesis,P0AE76
+Cofactor and Prosthetic Group Biosynthesis,P0AEA5
+Cofactor and Prosthetic Group Biosynthesis,P0AEA8
+Cofactor and Prosthetic Group Biosynthesis,P0AEI6
+Cofactor and Prosthetic Group Biosynthesis,P0AEJ2
+Cofactor and Prosthetic Group Biosynthesis,P0AEK2
+Cofactor and Prosthetic Group Biosynthesis,P0AEK4
+Cofactor and Prosthetic Group Biosynthesis,P0AEN1
+Cofactor and Prosthetic Group Biosynthesis,P0AF03
+Cofactor and Prosthetic Group Biosynthesis,P0AF12
+Cofactor and Prosthetic Group Biosynthesis,P0AF24
+Cofactor and Prosthetic Group Biosynthesis,P0AFC0
+Cofactor and Prosthetic Group Biosynthesis,P0AFI7
+Cofactor and Prosthetic Group Biosynthesis,P0AFS3
+Cofactor and Prosthetic Group Biosynthesis,P0AFU8
+Cofactor and Prosthetic Group Biosynthesis,P0AG20
+Cofactor and Prosthetic Group Biosynthesis,P0AG24
+Cofactor and Prosthetic Group Biosynthesis,P0AG40
+Cofactor and Prosthetic Group Biosynthesis,P0AGG0
+Cofactor and Prosthetic Group Biosynthesis,P0AGK1
+Cofactor and Prosthetic Group Biosynthesis,P10378
+Cofactor and Prosthetic Group Biosynthesis,P10902
+Cofactor and Prosthetic Group Biosynthesis,P11454
+Cofactor and Prosthetic Group Biosynthesis,P11458
+Cofactor and Prosthetic Group Biosynthesis,P12281
+Cofactor and Prosthetic Group Biosynthesis,P12282
+Cofactor and Prosthetic Group Biosynthesis,P12995
+Cofactor and Prosthetic Group Biosynthesis,P12996
+Cofactor and Prosthetic Group Biosynthesis,P12998
+Cofactor and Prosthetic Group Biosynthesis,P12999
+Cofactor and Prosthetic Group Biosynthesis,P13000
+Cofactor and Prosthetic Group Biosynthesis,P13001
+Cofactor and Prosthetic Group Biosynthesis,P15042
+Cofactor and Prosthetic Group Biosynthesis,P15047
+Cofactor and Prosthetic Group Biosynthesis,P17109
+Cofactor and Prosthetic Group Biosynthesis,P17846
+Cofactor and Prosthetic Group Biosynthesis,P17993
+Cofactor and Prosthetic Group Biosynthesis,P18133
+Cofactor and Prosthetic Group Biosynthesis,P18843
+Cofactor and Prosthetic Group Biosynthesis,P18956
+Cofactor and Prosthetic Group Biosynthesis,P19624
+Cofactor and Prosthetic Group Biosynthesis,P19925
+Cofactor and Prosthetic Group Biosynthesis,P20099
+Cofactor and Prosthetic Group Biosynthesis,P21369
+Cofactor and Prosthetic Group Biosynthesis,P21829
+Cofactor and Prosthetic Group Biosynthesis,P22939
+Cofactor and Prosthetic Group Biosynthesis,P23721
+Cofactor and Prosthetic Group Biosynthesis,P23871
+Cofactor and Prosthetic Group Biosynthesis,P23893
+Cofactor and Prosthetic Group Biosynthesis,P24224
+Cofactor and Prosthetic Group Biosynthesis,P25437
+Cofactor and Prosthetic Group Biosynthesis,P25534
+Cofactor and Prosthetic Group Biosynthesis,P25535
+Cofactor and Prosthetic Group Biosynthesis,P25539
+Cofactor and Prosthetic Group Biosynthesis,P25552
+Cofactor and Prosthetic Group Biosynthesis,P26281
+Cofactor and Prosthetic Group Biosynthesis,P26602
+Cofactor and Prosthetic Group Biosynthesis,P27278
+Cofactor and Prosthetic Group Biosynthesis,P27848
+Cofactor and Prosthetic Group Biosynthesis,P28305
+Cofactor and Prosthetic Group Biosynthesis,P29208
+Cofactor and Prosthetic Group Biosynthesis,P29680
+Cofactor and Prosthetic Group Biosynthesis,P30011
+Cofactor and Prosthetic Group Biosynthesis,P30136
+Cofactor and Prosthetic Group Biosynthesis,P30137
+Cofactor and Prosthetic Group Biosynthesis,P30138
+Cofactor and Prosthetic Group Biosynthesis,P30139
+Cofactor and Prosthetic Group Biosynthesis,P30140
+Cofactor and Prosthetic Group Biosynthesis,P30745
+Cofactor and Prosthetic Group Biosynthesis,P30748
+Cofactor and Prosthetic Group Biosynthesis,P30749
+Cofactor and Prosthetic Group Biosynthesis,P31057
+Cofactor and Prosthetic Group Biosynthesis,P31545
+Cofactor and Prosthetic Group Biosynthesis,P31663
+Cofactor and Prosthetic Group Biosynthesis,P32099
+Cofactor and Prosthetic Group Biosynthesis,P32125
+Cofactor and Prosthetic Group Biosynthesis,P32131
+Cofactor and Prosthetic Group Biosynthesis,P32166
+Cofactor and Prosthetic Group Biosynthesis,P32173
+Cofactor and Prosthetic Group Biosynthesis,P32664
+Cofactor and Prosthetic Group Biosynthesis,P33018
+Cofactor and Prosthetic Group Biosynthesis,P36553
+Cofactor and Prosthetic Group Biosynthesis,P36561
+Cofactor and Prosthetic Group Biosynthesis,P36562
+Cofactor and Prosthetic Group Biosynthesis,P37353
+Cofactor and Prosthetic Group Biosynthesis,P37355
+Cofactor and Prosthetic Group Biosynthesis,P37623
+Cofactor and Prosthetic Group Biosynthesis,P38038
+Cofactor and Prosthetic Group Biosynthesis,P38051
+Cofactor and Prosthetic Group Biosynthesis,P40191
+Cofactor and Prosthetic Group Biosynthesis,P45568
+Cofactor and Prosthetic Group Biosynthesis,P46891
+Cofactor and Prosthetic Group Biosynthesis,P51025
+Cofactor and Prosthetic Group Biosynthesis,P52086
+Cofactor and Prosthetic Group Biosynthesis,P60472
+Cofactor and Prosthetic Group Biosynthesis,P60716
+Cofactor and Prosthetic Group Biosynthesis,P60720
+Cofactor and Prosthetic Group Biosynthesis,P61714
+Cofactor and Prosthetic Group Biosynthesis,P61949
+Cofactor and Prosthetic Group Biosynthesis,P62615
+Cofactor and Prosthetic Group Biosynthesis,P62617
+Cofactor and Prosthetic Group Biosynthesis,P62620
+Cofactor and Prosthetic Group Biosynthesis,P62623
+Cofactor and Prosthetic Group Biosynthesis,P65870
+Cofactor and Prosthetic Group Biosynthesis,P69506
+Cofactor and Prosthetic Group Biosynthesis,P75728
+Cofactor and Prosthetic Group Biosynthesis,P75809
+Cofactor and Prosthetic Group Biosynthesis,P75823
+Cofactor and Prosthetic Group Biosynthesis,P75948
+Cofactor and Prosthetic Group Biosynthesis,P76052
+Cofactor and Prosthetic Group Biosynthesis,P76194
+Cofactor and Prosthetic Group Biosynthesis,P76290
+Cofactor and Prosthetic Group Biosynthesis,P76422
+Cofactor and Prosthetic Group Biosynthesis,P76423
+Cofactor and Prosthetic Group Biosynthesis,P76536
+Cofactor and Prosthetic Group Biosynthesis,P77150
+Cofactor and Prosthetic Group Biosynthesis,P77231
+Cofactor and Prosthetic Group Biosynthesis,P77357
+Cofactor and Prosthetic Group Biosynthesis,P77444
+Cofactor and Prosthetic Group Biosynthesis,P77488
+Cofactor and Prosthetic Group Biosynthesis,P77499
+Cofactor and Prosthetic Group Biosynthesis,P77522
+Cofactor and Prosthetic Group Biosynthesis,P77667
+Cofactor and Prosthetic Group Biosynthesis,P77689
+Cofactor and Prosthetic Group Biosynthesis,P77718
+Cofactor and Prosthetic Group Biosynthesis,P77756
+Cofactor and Prosthetic Group Biosynthesis,P77781
+Cofactor and Prosthetic Group Biosynthesis,P80644
+Cofactor and Prosthetic Group Biosynthesis,Q46810
+Cofactor and Prosthetic Group Biosynthesis,Q46822
+Cofactor and Prosthetic Group Biosynthesis,Q46893
+Cofactor and Prosthetic Group Biosynthesis,Q46920
+Cys Metabolism,P00509
+Cys Metabolism,P04825
+Cys Metabolism,P06721
+Cys Metabolism,P0A6J1
+Cys Metabolism,P0A853
+Cys Metabolism,P0A9D4
+Cys Metabolism,P0AA25
+Cys Metabolism,P0ABK5
+Cys Metabolism,P0AC59
+Cys Metabolism,P0AC62
+Cys Metabolism,P0AC69
+Cys Metabolism,P0AGG4
+Cys Metabolism,P15288
+Cys Metabolism,P16703
+Cys Metabolism,P17846
+Cys Metabolism,P17854
+Cys Metabolism,P21156
+Cys Metabolism,P22255
+Cys Metabolism,P23845
+Cys Metabolism,P31142
+Cys Metabolism,P37095
+Cys Metabolism,P38038
+Cys Metabolism,P68688
+Cys Metabolism,P68767
+Cys Metabolism,P76316
+Cys Metabolism,P77444
+Cys Metabolism,Q46925
+Folate Metabolism,P0A6T9
+Folate Metabolism,P0A825
+Folate Metabolism,P0A9P0
+Folate Metabolism,P0AC28
+Folate Metabolism,P0AEZ1
+Folate Metabolism,P24186
+Folate Metabolism,P25553
+Folate Metabolism,P27248
+Folate Metabolism,P33195
+Folate Metabolism,P37051
+Glu Metabolism,P00370
+Glu Metabolism,P00805
+Glu Metabolism,P09831
+Glu Metabolism,P09832
+Glu Metabolism,P0A6W0
+Glu Metabolism,P0A9C5
+Glu Metabolism,P69908
+Glu Metabolism,P69910
+Glu Metabolism,P77454
+Gly and Ser Metabolism,P00547
+Gly and Ser Metabolism,P00634
+Gly and Ser Metabolism,P00926
+Gly and Ser Metabolism,P07913
+Gly and Ser Metabolism,P0A825
+Gly and Ser Metabolism,P0A853
+Gly and Ser Metabolism,P0A9T0
+Gly and Ser Metabolism,P0AB77
+Gly and Ser Metabolism,P0AE22
+Gly and Ser Metabolism,P0AGB0
+Gly and Ser Metabolism,P0AGF6
+Gly and Ser Metabolism,P16095
+Gly and Ser Metabolism,P23524
+Gly and Ser Metabolism,P23721
+Gly and Ser Metabolism,P30744
+Gly and Ser Metabolism,P37339
+Gly and Ser Metabolism,P37686
+Gly and Ser Metabolism,P39831
+Gly and Ser Metabolism,P40874
+Gly and Ser Metabolism,P42630
+Gly and Ser Metabolism,P75823
+Glycerophospholipid Metabolism,P06282
+Glycerophospholipid Metabolism,P07000
+Glycerophospholipid Metabolism,P09394
+Glycerophospholipid Metabolism,P0A6A8
+Glycerophospholipid Metabolism,P0A6H8
+Glycerophospholipid Metabolism,P0A7A7
+Glycerophospholipid Metabolism,P0A8K1
+Glycerophospholipid Metabolism,P0A921
+Glycerophospholipid Metabolism,P0A924
+Glycerophospholipid Metabolism,P0A9H7
+Glycerophospholipid Metabolism,P0A9S5
+Glycerophospholipid Metabolism,P0AA84
+Glycerophospholipid Metabolism,P0AB65
+Glycerophospholipid Metabolism,P0ABF8
+Glycerophospholipid Metabolism,P0ABG1
+Glycerophospholipid Metabolism,P0ABN1
+Glycerophospholipid Metabolism,P0ADA1
+Glycerophospholipid Metabolism,P10908
+Glycerophospholipid Metabolism,P18200
+Glycerophospholipid Metabolism,P23830
+Glycerophospholipid Metabolism,P26647
+Glycerophospholipid Metabolism,P27247
+Glycerophospholipid Metabolism,P31119
+Glycerophospholipid Metabolism,P60782
+Glycolysis/Gluconeogenesis,P00490
+Glycolysis/Gluconeogenesis,P00634
+Glycolysis/Gluconeogenesis,P06959
+Glycolysis/Gluconeogenesis,P06999
+Glycolysis/Gluconeogenesis,P07762
+Glycolysis/Gluconeogenesis,P0A6P9
+Glycolysis/Gluconeogenesis,P0A6T1
+Glycolysis/Gluconeogenesis,P0A6U8
+Glycolysis/Gluconeogenesis,P0A6V1
+Glycolysis/Gluconeogenesis,P0A6V8
+Glycolysis/Gluconeogenesis,P0A796
+Glycolysis/Gluconeogenesis,P0A799
+Glycolysis/Gluconeogenesis,P0A858
+Glycolysis/Gluconeogenesis,P0A8Y3
+Glycolysis/Gluconeogenesis,P0A8Y5
+Glycolysis/Gluconeogenesis,P0A991
+Glycolysis/Gluconeogenesis,P0A993
+Glycolysis/Gluconeogenesis,P0A9B2
+Glycolysis/Gluconeogenesis,P0A9C9
+Glycolysis/Gluconeogenesis,P0A9P0
+Glycolysis/Gluconeogenesis,P0AB71
+Glycolysis/Gluconeogenesis,P0AC86
+Glycolysis/Gluconeogenesis,P0AD61
+Glycolysis/Gluconeogenesis,P0AFG8
+Glycolysis/Gluconeogenesis,P15067
+Glycolysis/Gluconeogenesis,P19926
+Glycolysis/Gluconeogenesis,P21437
+Glycolysis/Gluconeogenesis,P21599
+Glycolysis/Gluconeogenesis,P23538
+Glycolysis/Gluconeogenesis,P27848
+Glycolysis/Gluconeogenesis,P32669
+Glycolysis/Gluconeogenesis,P37689
+Glycolysis/Gluconeogenesis,P62707
+Glycolysis/Gluconeogenesis,P75792
+Glycolysis/Gluconeogenesis,P77625
+Glycolysis/Gluconeogenesis,P78055
+His Metabolism,P06986
+His Metabolism,P06987
+His Metabolism,P06988
+His Metabolism,P06989
+His Metabolism,P0A717
+His Metabolism,P10371
+His Metabolism,P60595
+His Metabolism,P60664
+His Metabolism,P60757
+Inorganic Ion Transport and Metabolism,P02930
+Inorganic Ion Transport and Metabolism,P03819
+Inorganic Ion Transport and Metabolism,P03959
+Inorganic Ion Transport and Metabolism,P03960
+Inorganic Ion Transport and Metabolism,P03961
+Inorganic Ion Transport and Metabolism,P06972
+Inorganic Ion Transport and Metabolism,P07654
+Inorganic Ion Transport and Metabolism,P07821
+Inorganic Ion Transport and Metabolism,P07822
+Inorganic Ion Transport and Metabolism,P09833
+Inorganic Ion Transport and Metabolism,P0A6J3
+Inorganic Ion Transport and Metabolism,P0A769
+Inorganic Ion Transport and Metabolism,P0A8H3
+Inorganic Ion Transport and Metabolism,P0A9X1
+Inorganic Ion Transport and Metabolism,P0AAH0
+Inorganic Ion Transport and Metabolism,P0AAH4
+Inorganic Ion Transport and Metabolism,P0AAJ1
+Inorganic Ion Transport and Metabolism,P0AB96
+Inorganic Ion Transport and Metabolism,P0ABB8
+Inorganic Ion Transport and Metabolism,P0ABD3
+Inorganic Ion Transport and Metabolism,P0ABI4
+Inorganic Ion Transport and Metabolism,P0AC26
+Inorganic Ion Transport and Metabolism,P0AC59
+Inorganic Ion Transport and Metabolism,P0AEB0
+Inorganic Ion Transport and Metabolism,P0AEL6
+Inorganic Ion Transport and Metabolism,P0AEY8
+Inorganic Ion Transport and Metabolism,P0AF01
+Inorganic Ion Transport and Metabolism,P0AF43
+Inorganic Ion Transport and Metabolism,P0AFA7
+Inorganic Ion Transport and Metabolism,P0AFA9
+Inorganic Ion Transport and Metabolism,P0AFJ7
+Inorganic Ion Transport and Metabolism,P0AFZ7
+Inorganic Ion Transport and Metabolism,P0AG78
+Inorganic Ion Transport and Metabolism,P0AG82
+Inorganic Ion Transport and Metabolism,P0AGH8
+Inorganic Ion Transport and Metabolism,P0AGI8
+Inorganic Ion Transport and Metabolism,P10903
+Inorganic Ion Transport and Metabolism,P13039
+Inorganic Ion Transport and Metabolism,P13738
+Inorganic Ion Transport and Metabolism,P15028
+Inorganic Ion Transport and Metabolism,P15029
+Inorganic Ion Transport and Metabolism,P15030
+Inorganic Ion Transport and Metabolism,P15031
+Inorganic Ion Transport and Metabolism,P16676
+Inorganic Ion Transport and Metabolism,P16691
+Inorganic Ion Transport and Metabolism,P16700
+Inorganic Ion Transport and Metabolism,P16701
+Inorganic Ion Transport and Metabolism,P23849
+Inorganic Ion Transport and Metabolism,P23857
+Inorganic Ion Transport and Metabolism,P23876
+Inorganic Ion Transport and Metabolism,P23877
+Inorganic Ion Transport and Metabolism,P23878
+Inorganic Ion Transport and Metabolism,P31069
+Inorganic Ion Transport and Metabolism,P31801
+Inorganic Ion Transport and Metabolism,P33590
+Inorganic Ion Transport and Metabolism,P33591
+Inorganic Ion Transport and Metabolism,P33593
+Inorganic Ion Transport and Metabolism,P33594
+Inorganic Ion Transport and Metabolism,P33650
+Inorganic Ion Transport and Metabolism,P36649
+Inorganic Ion Transport and Metabolism,P36937
+Inorganic Ion Transport and Metabolism,P37019
+Inorganic Ion Transport and Metabolism,P37329
+Inorganic Ion Transport and Metabolism,P37617
+Inorganic Ion Transport and Metabolism,P37758
+Inorganic Ion Transport and Metabolism,P38054
+Inorganic Ion Transport and Metabolism,P39172
+Inorganic Ion Transport and Metabolism,P39405
+Inorganic Ion Transport and Metabolism,P39832
+Inorganic Ion Transport and Metabolism,P43676
+Inorganic Ion Transport and Metabolism,P45394
+Inorganic Ion Transport and Metabolism,P45522
+Inorganic Ion Transport and Metabolism,P63183
+Inorganic Ion Transport and Metabolism,P69380
+Inorganic Ion Transport and Metabolism,P69681
+Inorganic Ion Transport and Metabolism,P75757
+Inorganic Ion Transport and Metabolism,P76173
+Inorganic Ion Transport and Metabolism,P76175
+Inorganic Ion Transport and Metabolism,P77211
+Inorganic Ion Transport and Metabolism,P77214
+Inorganic Ion Transport and Metabolism,P77239
+Inorganic Ion Transport and Metabolism,P77374
+Inorganic Ion Transport and Metabolism,P77783
+Inorganic Ion Transport and Metabolism,P80645
+Inorganic Ion Transport and Metabolism,Q46871
+Inorganic Ion Transport and Metabolism,Q59385
+Lipopolysaccharide Biosynthesis/Recycling,P04951
+Lipopolysaccharide Biosynthesis/Recycling,P0A6A8
+Lipopolysaccharide Biosynthesis/Recycling,P0A715
+Lipopolysaccharide Biosynthesis/Recycling,P0A722
+Lipopolysaccharide Biosynthesis/Recycling,P0A725
+Lipopolysaccharide Biosynthesis/Recycling,P0A8Y8
+Lipopolysaccharide Biosynthesis/Recycling,P0A9V1
+Lipopolysaccharide Biosynthesis/Recycling,P0AAA7
+Lipopolysaccharide Biosynthesis/Recycling,P0ABZ4
+Lipopolysaccharide Biosynthesis/Recycling,P0AC75
+Lipopolysaccharide Biosynthesis/Recycling,P0ACV0
+Lipopolysaccharide Biosynthesis/Recycling,P0ACV2
+Lipopolysaccharide Biosynthesis/Recycling,P0ADC1
+Lipopolysaccharide Biosynthesis/Recycling,P0ADC6
+Lipopolysaccharide Biosynthesis/Recycling,P0ADV1
+Lipopolysaccharide Biosynthesis/Recycling,P0ADV9
+Lipopolysaccharide Biosynthesis/Recycling,P0AF98
+Lipopolysaccharide Biosynthesis/Recycling,P0AG00
+Lipopolysaccharide Biosynthesis/Recycling,P10441
+Lipopolysaccharide Biosynthesis/Recycling,P21645
+Lipopolysaccharide Biosynthesis/Recycling,P24173
+Lipopolysaccharide Biosynthesis/Recycling,P24205
+Lipopolysaccharide Biosynthesis/Recycling,P25740
+Lipopolysaccharide Biosynthesis/Recycling,P25741
+Lipopolysaccharide Biosynthesis/Recycling,P25742
+Lipopolysaccharide Biosynthesis/Recycling,P27126
+Lipopolysaccharide Biosynthesis/Recycling,P27127
+Lipopolysaccharide Biosynthesis/Recycling,P27128
+Lipopolysaccharide Biosynthesis/Recycling,P27129
+Lipopolysaccharide Biosynthesis/Recycling,P27240
+Lipopolysaccharide Biosynthesis/Recycling,P27241
+Lipopolysaccharide Biosynthesis/Recycling,P27242
+Lipopolysaccharide Biosynthesis/Recycling,P27243
+Lipopolysaccharide Biosynthesis/Recycling,P27300
+Lipopolysaccharide Biosynthesis/Recycling,P27835
+Lipopolysaccharide Biosynthesis/Recycling,P31554
+Lipopolysaccharide Biosynthesis/Recycling,P37001
+Lipopolysaccharide Biosynthesis/Recycling,P37661
+Lipopolysaccharide Biosynthesis/Recycling,P37692
+Lipopolysaccharide Biosynthesis/Recycling,P37746
+Lipopolysaccharide Biosynthesis/Recycling,P37748
+Lipopolysaccharide Biosynthesis/Recycling,P37749
+Lipopolysaccharide Biosynthesis/Recycling,P37750
+Lipopolysaccharide Biosynthesis/Recycling,P37751
+Lipopolysaccharide Biosynthesis/Recycling,P43341
+Lipopolysaccharide Biosynthesis/Recycling,P60752
+Lipopolysaccharide Biosynthesis/Recycling,P63224
+Lipopolysaccharide Biosynthesis/Recycling,P63228
+Lipopolysaccharide Biosynthesis/Recycling,P67910
+Lipopolysaccharide Biosynthesis/Recycling,P76372
+Lipopolysaccharide Biosynthesis/Recycling,P76445
+Lipopolysaccharide Biosynthesis/Recycling,P76472
+Lipopolysaccharide Biosynthesis/Recycling,P76473
+Lipopolysaccharide Biosynthesis/Recycling,P76474
+Lipopolysaccharide Biosynthesis/Recycling,P76658
+Lipopolysaccharide Biosynthesis/Recycling,P77398
+Lipopolysaccharide Biosynthesis/Recycling,P77690
+Lipopolysaccharide Biosynthesis/Recycling,P77757
+Lipopolysaccharide Biosynthesis/Recycling,Q47377
+Membrane Lipid Metabolism,P0A6A8
+Membrane Lipid Metabolism,P0A6R0
+Membrane Lipid Metabolism,P0A953
+Membrane Lipid Metabolism,P0A9Q5
+Membrane Lipid Metabolism,P0A9U8
+Membrane Lipid Metabolism,P0AAI5
+Membrane Lipid Metabolism,P0AAI9
+Membrane Lipid Metabolism,P0ABD5
+Membrane Lipid Metabolism,P0ABD8
+Membrane Lipid Metabolism,P21151
+Membrane Lipid Metabolism,P21177
+Membrane Lipid Metabolism,P24182
+Membrane Lipid Metabolism,P76461
+Membrane Lipid Metabolism,P76503
+Membrane Lipid Metabolism,P76518
+Membrane Lipid Metabolism,P77399
+Membrane Lipid Metabolism,Q47146
+Met Metabolism,P00935
+Met Metabolism,P06721
+Met Metabolism,P07623
+Met Metabolism,P0A744
+Met Metabolism,P0A746
+Met Metabolism,P0A817
+Met Metabolism,P0AA25
+Met Metabolism,P0AF12
+Met Metabolism,P0AGG4
+Met Metabolism,P13009
+Met Metabolism,P20099
+Met Metabolism,P23256
+Met Metabolism,P25665
+Met Metabolism,P45578
+Met Metabolism,P64461
+Met Metabolism,P76112
+Met Metabolism,P76143
+Met Metabolism,P76270
+Met Metabolism,P77432
+Met Metabolism,Q47690
+Methylglyoxal Metabolism,P0A731
+Methylglyoxal Metabolism,P0A9S5
+Methylglyoxal Metabolism,P0AC81
+Methylglyoxal Metabolism,P0AC84
+Methylglyoxal Metabolism,P30863
+Methylglyoxal Metabolism,P31658
+Methylglyoxal Metabolism,P76234
+Methylglyoxal Metabolism,P77256
+Methylglyoxal Metabolism,Q46851
+Methylglyoxal Metabolism,Q46857
+Murein Biosynthesis,P02918
+Murein Biosynthesis,P02919
+Murein Biosynthesis,P08506
+Murein Biosynthesis,P0AAX8
+Murein Biosynthesis,P0ABG4
+Murein Biosynthesis,P0AD65
+Murein Biosynthesis,P0AD68
+Murein Biosynthesis,P0AD70
+Murein Biosynthesis,P0AEB2
+Murein Biosynthesis,P0AF16
+Murein Biosynthesis,P22525
+Murein Biosynthesis,P24228
+Murein Biosynthesis,P33013
+Murein Biosynthesis,P39176
+Murein Biosynthesis,P46022
+Murein Biosynthesis,P75954
+Murein Biosynthesis,P76193
+Murein Biosynthesis,P76577
+Murein Biosynthesis,P77619
+Murein Recycling,P0A935
+Murein Recycling,P0ACV6
+Murein Recycling,P0AD70
+Murein Recycling,P0AE16
+Murein Recycling,P0AEZ7
+Murein Recycling,P0AFH2
+Murein Recycling,P0AFH6
+Murein Recycling,P0AFI5
+Murein Recycling,P0AFS9
+Murein Recycling,P0AFU0
+Murein Recycling,P0AFV4
+Murein Recycling,P0AGC3
+Murein Recycling,P0AGC5
+Murein Recycling,P0C066
+Murein Recycling,P0C0T5
+Murein Recycling,P0C960
+Murein Recycling,P13016
+Murein Recycling,P15288
+Murein Recycling,P23843
+Murein Recycling,P24228
+Murein Recycling,P26365
+Murein Recycling,P28306
+Murein Recycling,P33913
+Murein Recycling,P33915
+Murein Recycling,P33916
+Murein Recycling,P36548
+Murein Recycling,P37773
+Murein Recycling,P41052
+Murein Recycling,P51981
+Murein Recycling,P63883
+Murein Recycling,P75820
+Murein Recycling,P75949
+Murein Recycling,P75959
+Murein Recycling,P76008
+Murein Recycling,P76027
+Murein Recycling,P76190
+Murein Recycling,P77348
+Murein Recycling,P77570
+Murein Recycling,P77737
+Murein Recycling,P77790
+Nitrogen Metabolism,P00816
+Nitrogen Metabolism,P0AAK7
+Nitrogen Metabolism,P0AAL3
+Nitrogen Metabolism,P0ABK9
+Nitrogen Metabolism,P0ABL1
+Nitrogen Metabolism,P0ABL3
+Nitrogen Metabolism,P0ABL5
+Nitrogen Metabolism,P24232
+Nitrogen Metabolism,P32709
+Nitrogen Metabolism,P33934
+Nitrogen Metabolism,P33937
+Nitrogen Metabolism,P37306
+Nitrogen Metabolism,P37596
+Nitrogen Metabolism,P46883
+Nitrogen Metabolism,P75713
+Nitrogen Metabolism,P77425
+Nitrogen Metabolism,P77671
+Nitrogen Metabolism,P77731
+Nitrogen Metabolism,Q46877
+Nucleotide Salvage Pathway,P00452
+Nucleotide Salvage Pathway,P00634
+Nucleotide Salvage Pathway,P00936
+Nucleotide Salvage Pathway,P05637
+Nucleotide Salvage Pathway,P06968
+Nucleotide Salvage Pathway,P07024
+Nucleotide Salvage Pathway,P07102
+Nucleotide Salvage Pathway,P07650
+Nucleotide Salvage Pathway,P08331
+Nucleotide Salvage Pathway,P08337
+Nucleotide Salvage Pathway,P0A6I0
+Nucleotide Salvage Pathway,P0A720
+Nucleotide Salvage Pathway,P0A752
+Nucleotide Salvage Pathway,P0A763
+Nucleotide Salvage Pathway,P0A7E9
+Nucleotide Salvage Pathway,P0A840
+Nucleotide Salvage Pathway,P0A884
+Nucleotide Salvage Pathway,P0A8F0
+Nucleotide Salvage Pathway,P0A8F4
+Nucleotide Salvage Pathway,P0A8N5
+Nucleotide Salvage Pathway,P0A8Y1
+Nucleotide Salvage Pathway,P0A9M2
+Nucleotide Salvage Pathway,P0A9M5
+Nucleotide Salvage Pathway,P0A9N8
+Nucleotide Salvage Pathway,P0AA25
+Nucleotide Salvage Pathway,P0AA89
+Nucleotide Salvage Pathway,P0AAN3
+Nucleotide Salvage Pathway,P0ABF6
+Nucleotide Salvage Pathway,P0ABP8
+Nucleotide Salvage Pathway,P0ABY4
+Nucleotide Salvage Pathway,P0AC59
+Nucleotide Salvage Pathway,P0AC62
+Nucleotide Salvage Pathway,P0AC69
+Nucleotide Salvage Pathway,P0AE12
+Nucleotide Salvage Pathway,P0AE22
+Nucleotide Salvage Pathway,P0AEI6
+Nucleotide Salvage Pathway,P0AEW4
+Nucleotide Salvage Pathway,P0AEW6
+Nucleotide Salvage Pathway,P0AEY3
+Nucleotide Salvage Pathway,P0AF24
+Nucleotide Salvage Pathway,P0AFC0
+Nucleotide Salvage Pathway,P0AFQ5
+Nucleotide Salvage Pathway,P0AGG4
+Nucleotide Salvage Pathway,P12758
+Nucleotide Salvage Pathway,P14081
+Nucleotide Salvage Pathway,P15723
+Nucleotide Salvage Pathway,P21599
+Nucleotide Salvage Pathway,P22333
+Nucleotide Salvage Pathway,P22564
+Nucleotide Salvage Pathway,P23331
+Nucleotide Salvage Pathway,P24203
+Nucleotide Salvage Pathway,P25519
+Nucleotide Salvage Pathway,P25524
+Nucleotide Salvage Pathway,P25536
+Nucleotide Salvage Pathway,P25889
+Nucleotide Salvage Pathway,P27254
+Nucleotide Salvage Pathway,P28248
+Nucleotide Salvage Pathway,P28861
+Nucleotide Salvage Pathway,P28903
+Nucleotide Salvage Pathway,P31129
+Nucleotide Salvage Pathway,P31441
+Nucleotide Salvage Pathway,P33030
+Nucleotide Salvage Pathway,P37146
+Nucleotide Salvage Pathway,P37691
+Nucleotide Salvage Pathway,P39286
+Nucleotide Salvage Pathway,P39411
+Nucleotide Salvage Pathway,P39452
+Nucleotide Salvage Pathway,P39831
+Nucleotide Salvage Pathway,P45563
+Nucleotide Salvage Pathway,P45799
+Nucleotide Salvage Pathway,P52006
+Nucleotide Salvage Pathway,P52061
+Nucleotide Salvage Pathway,P60546
+Nucleotide Salvage Pathway,P61949
+Nucleotide Salvage Pathway,P64636
+Nucleotide Salvage Pathway,P68688
+Nucleotide Salvage Pathway,P69441
+Nucleotide Salvage Pathway,P69503
+Nucleotide Salvage Pathway,P69924
+Nucleotide Salvage Pathway,P75838
+Nucleotide Salvage Pathway,P75893
+Nucleotide Salvage Pathway,P75894
+Nucleotide Salvage Pathway,P75895
+Nucleotide Salvage Pathway,P75897
+Nucleotide Salvage Pathway,P75898
+Nucleotide Salvage Pathway,P75908
+Nucleotide Salvage Pathway,P76129
+Nucleotide Salvage Pathway,P76245
+Nucleotide Salvage Pathway,P76440
+Nucleotide Salvage Pathway,P76491
+Nucleotide Salvage Pathway,P76514
+Nucleotide Salvage Pathway,P76641
+Nucleotide Salvage Pathway,P77302
+Nucleotide Salvage Pathway,P77319
+Nucleotide Salvage Pathway,P77334
+Nucleotide Salvage Pathway,P77788
+Nucleotide Salvage Pathway,Q46799
+Nucleotide Salvage Pathway,Q46800
+Nucleotide Salvage Pathway,Q46801
+Nucleotide Salvage Pathway,Q93K97
+Nucleotide Salvage Pathway,P0A8F4
+Oxidative Phosphorylation,P00393
+Oxidative Phosphorylation,P06149
+Oxidative Phosphorylation,P07001
+Oxidative Phosphorylation,P07003
+Oxidative Phosphorylation,P07014
+Oxidative Phosphorylation,P08201
+Oxidative Phosphorylation,P09152
+Oxidative Phosphorylation,P0A6E6
+Oxidative Phosphorylation,P0A754
+Oxidative Phosphorylation,P0A7B1
+Oxidative Phosphorylation,P0A8G6
+Oxidative Phosphorylation,P0A996
+Oxidative Phosphorylation,P0A9C0
+Oxidative Phosphorylation,P0A9I8
+Oxidative Phosphorylation,P0A9P4
+Oxidative Phosphorylation,P0AA25
+Oxidative Phosphorylation,P0AAJ1
+Oxidative Phosphorylation,P0AAJ3
+Oxidative Phosphorylation,P0AAJ5
+Oxidative Phosphorylation,P0AAJ8
+Oxidative Phosphorylation,P0AAK1
+Oxidative Phosphorylation,P0AAM1
+Oxidative Phosphorylation,P0AB67
+Oxidative Phosphorylation,P0AB98
+Oxidative Phosphorylation,P0ABA0
+Oxidative Phosphorylation,P0ABA4
+Oxidative Phosphorylation,P0ABA6
+Oxidative Phosphorylation,P0ABB0
+Oxidative Phosphorylation,P0ABB4
+Oxidative Phosphorylation,P0ABC0
+Oxidative Phosphorylation,P0ABI8
+Oxidative Phosphorylation,P0ABJ1
+Oxidative Phosphorylation,P0ABJ3
+Oxidative Phosphorylation,P0ABJ6
+Oxidative Phosphorylation,P0ABJ9
+Oxidative Phosphorylation,P0ABK2
+Oxidative Phosphorylation,P0AC41
+Oxidative Phosphorylation,P0AC44
+Oxidative Phosphorylation,P0ACD8
+Oxidative Phosphorylation,P0ACE0
+Oxidative Phosphorylation,P0ADU2
+Oxidative Phosphorylation,P0AEK7
+Oxidative Phosphorylation,P0AEL0
+Oxidative Phosphorylation,P0AEY5
+Oxidative Phosphorylation,P0AF26
+Oxidative Phosphorylation,P0AF32
+Oxidative Phosphorylation,P0AFC3
+Oxidative Phosphorylation,P0AFC7
+Oxidative Phosphorylation,P0AFD1
+Oxidative Phosphorylation,P0AFD4
+Oxidative Phosphorylation,P0AFD6
+Oxidative Phosphorylation,P0AFE0
+Oxidative Phosphorylation,P0AFE4
+Oxidative Phosphorylation,P0AFE8
+Oxidative Phosphorylation,P0AFF0
+Oxidative Phosphorylation,P0AGE6
+Oxidative Phosphorylation,P0AGG4
+Oxidative Phosphorylation,P11349
+Oxidative Phosphorylation,P11350
+Oxidative Phosphorylation,P13033
+Oxidative Phosphorylation,P13035
+Oxidative Phosphorylation,P15877
+Oxidative Phosphorylation,P16429
+Oxidative Phosphorylation,P16430
+Oxidative Phosphorylation,P16431
+Oxidative Phosphorylation,P16432
+Oxidative Phosphorylation,P16433
+Oxidative Phosphorylation,P18775
+Oxidative Phosphorylation,P18776
+Oxidative Phosphorylation,P18777
+Oxidative Phosphorylation,P19317
+Oxidative Phosphorylation,P19318
+Oxidative Phosphorylation,P19319
+Oxidative Phosphorylation,P24183
+Oxidative Phosphorylation,P26458
+Oxidative Phosphorylation,P26459
+Oxidative Phosphorylation,P27306
+Oxidative Phosphorylation,P31551
+Oxidative Phosphorylation,P31552
+Oxidative Phosphorylation,P31572
+Oxidative Phosphorylation,P31979
+Oxidative Phosphorylation,P32176
+Oxidative Phosphorylation,P33225
+Oxidative Phosphorylation,P33226
+Oxidative Phosphorylation,P33599
+Oxidative Phosphorylation,P33602
+Oxidative Phosphorylation,P33607
+Oxidative Phosphorylation,P37180
+Oxidative Phosphorylation,P46923
+Oxidative Phosphorylation,P52005
+Oxidative Phosphorylation,P56100
+Oxidative Phosphorylation,P68699
+Oxidative Phosphorylation,P69054
+Oxidative Phosphorylation,P69739
+Oxidative Phosphorylation,P69741
+Oxidative Phosphorylation,P75804
+Oxidative Phosphorylation,P76173
+Oxidative Phosphorylation,P77374
+Oxidative Phosphorylation,P77783
+Pentose Phosphate Pathway,P00350
+Pentose Phosphate Pathway,P0A796
+Pentose Phosphate Pathway,P0A7Z0
+Pentose Phosphate Pathway,P0A867
+Pentose Phosphate Pathway,P0A870
+Pentose Phosphate Pathway,P0A955
+Pentose Phosphate Pathway,P0AB71
+Pentose Phosphate Pathway,P0AC53
+Pentose Phosphate Pathway,P0ADF6
+Pentose Phosphate Pathway,P0AG07
+Pentose Phosphate Pathway,P27302
+Pentose Phosphate Pathway,P33570
+Pentose Phosphate Pathway,P37351
+Pentose Phosphate Pathway,P52697
+Protein folding,P0A6Y8
+Protein folding,P08622
+Protein folding,P09372
+Protein folding,P0A850
+Protein folding,P0A6F9
+Protein folding,P0A6F5
+Protein synthesis,P0A7L0
+Protein synthesis,P0A7J3
+Protein synthesis,P0A7J7
+Protein synthesis,P0AA10
+Protein synthesis,P0ADY3
+Protein synthesis,P02413
+Protein synthesis,P0ADY7
+Protein synthesis,P0AG44
+Protein synthesis,P0C018
+Protein synthesis,P0A7K6
+Protein synthesis,P60422
+Protein synthesis,P0A7L3
+Protein synthesis,P0AG48
+Protein synthesis,P61175
+Protein synthesis,P0ADZ0
+Protein synthesis,P60624
+Protein synthesis,P68919
+Protein synthesis,P0A7L8
+Protein synthesis,P0A7M2
+Protein synthesis,P0A7M6
+Protein synthesis,P60438
+Protein synthesis,P0AG51
+Protein synthesis,P0A7M9
+Protein synthesis,P0A7N1
+Protein synthesis,P0A7N4
+Protein synthesis,P0A7N9
+Protein synthesis,P0A7P5
+Protein synthesis,P0A7Q1
+Protein synthesis,P0A7Q6
+Protein synthesis,Q2EEQ2
+Protein synthesis,P60723
+Protein synthesis,P62399
+Protein synthesis,P0AG55
+Protein synthesis,P0A7K2
+Protein synthesis,P0A7R1
+Protein synthesis,P0AG67
+Protein synthesis,P0A7R5
+Protein synthesis,P0A7R9
+Protein synthesis,P0A7S3
+Protein synthesis,P0A7S9
+Protein synthesis,P0AG59
+Protein synthesis,P0ADZ4
+Protein synthesis,P0A7T3
+Protein synthesis,P0AG63
+Protein synthesis,P0A7T7
+Protein synthesis,P0A7U3
+Protein synthesis,P0A7V0
+Protein synthesis,P0A7U7
+Protein synthesis,P68679
+Protein synthesis,P0A7V3
+Protein synthesis,P0A7V8
+Protein synthesis,P0A7W1
+Protein synthesis,P02358
+Protein synthesis,P02359
+Protein synthesis,P0A7W7
+Protein synthesis,P0A7X3
+Purine and Pyrimidine Biosynthesis,P04079
+Purine and Pyrimidine Biosynthesis,P05020
+Purine and Pyrimidine Biosynthesis,P08178
+Purine and Pyrimidine Biosynthesis,P08179
+Purine and Pyrimidine Biosynthesis,P08244
+Purine and Pyrimidine Biosynthesis,P09029
+Purine and Pyrimidine Biosynthesis,P0A786
+Purine and Pyrimidine Biosynthesis,P0A7D4
+Purine and Pyrimidine Biosynthesis,P0A7D7
+Purine and Pyrimidine Biosynthesis,P0A7E1
+Purine and Pyrimidine Biosynthesis,P0A7E3
+Purine and Pyrimidine Biosynthesis,P0A7E5
+Purine and Pyrimidine Biosynthesis,P0A7F3
+Purine and Pyrimidine Biosynthesis,P0AB89
+Purine and Pyrimidine Biosynthesis,P0ACE7
+Purine and Pyrimidine Biosynthesis,P0ADG7
+Purine and Pyrimidine Biosynthesis,P0AG16
+Purine and Pyrimidine Biosynthesis,P0AG18
+Purine and Pyrimidine Biosynthesis,P15254
+Purine and Pyrimidine Biosynthesis,P15639
+Purine and Pyrimidine Biosynthesis,P15640
+Purine and Pyrimidine Biosynthesis,P30235
+Purine and Pyrimidine Biosynthesis,P33025
+Purine and Pyrimidine Biosynthesis,P33221
+Purine and Pyrimidine Biosynthesis,P60560
+Pyruvate Metabolism,P07658
+Pyruvate Metabolism,P09373
+Pyruvate Metabolism,P0A6A3
+Pyruvate Metabolism,P0A955
+Pyruvate Metabolism,P0A9M8
+Pyruvate Metabolism,P0A9N4
+Pyruvate Metabolism,P0A9Q7
+Pyruvate Metabolism,P0AAK1
+Pyruvate Metabolism,P0ABY4
+Pyruvate Metabolism,P0AEW1
+Pyruvate Metabolism,P11868
+Pyruvate Metabolism,P16429
+Pyruvate Metabolism,P16430
+Pyruvate Metabolism,P16431
+Pyruvate Metabolism,P16432
+Pyruvate Metabolism,P16433
+Pyruvate Metabolism,P23481
+Pyruvate Metabolism,P23482
+Pyruvate Metabolism,P27550
+Pyruvate Metabolism,P32674
+Pyruvate Metabolism,P32675
+Pyruvate Metabolism,P33221
+Pyruvate Metabolism,P39451
+Pyruvate Metabolism,P42632
+Pyruvate Metabolism,P52643
+Pyruvate Metabolism,P52647
+Pyruvate Metabolism,P61949
+Pyruvate Metabolism,P68066
+Pyruvate Metabolism,P77218
+Pyruvate Metabolism,P77329
+Pyruvate Metabolism,P77416
+Pyruvate Metabolism,P77423
+Pyruvate Metabolism,P77437
+Pyruvate Metabolism,P77453
+Pyruvate Metabolism,P77580
+Pyruvate Metabolism,P77668
+Pyruvate Metabolism,P77858
+Thr and Lys Metabolism,P00547
+Thr and Lys Metabolism,P00561
+Thr and Lys Metabolism,P00562
+Thr and Lys Metabolism,P00634
+Thr and Lys Metabolism,P00861
+Thr and Lys Metabolism,P00934
+Thr and Lys Metabolism,P04036
+Thr and Lys Metabolism,P08660
+Thr and Lys Metabolism,P0A6K1
+Thr and Lys Metabolism,P0A6L2
+Thr and Lys Metabolism,P0A825
+Thr and Lys Metabolism,P0A9D8
+Thr and Lys Metabolism,P0A9H3
+Thr and Lys Metabolism,P0A9Q9
+Thr and Lys Metabolism,P0A9S5
+Thr and Lys Metabolism,P0AE22
+Thr and Lys Metabolism,P0AED7
+Thr and Lys Metabolism,P18335
+Thr and Lys Metabolism,P22256
+Thr and Lys Metabolism,P23721
+Thr and Lys Metabolism,P39280
+Thr and Lys Metabolism,P39831
+Thr and Lys Metabolism,P50457
+Thr and Lys Metabolism,P52095
+Thr and Lys Metabolism,P75823
+Thr and Lys Metabolism,P77581
+"Transport, Inner Membrane",P00550
+"Transport, Inner Membrane",P02916
+"Transport, Inner Membrane",P02920
+"Transport, Inner Membrane",P02921
+"Transport, Inner Membrane",P02924
+"Transport, Inner Membrane",P02930
+"Transport, Inner Membrane",P04816
+"Transport, Inner Membrane",P05706
+"Transport, Inner Membrane",P06609
+"Transport, Inner Membrane",P06611
+"Transport, Inner Membrane",P06972
+"Transport, Inner Membrane",P07109
+"Transport, Inner Membrane",P07117
+"Transport, Inner Membrane",P07821
+"Transport, Inner Membrane",P07822
+"Transport, Inner Membrane",P08194
+"Transport, Inner Membrane",P08722
+"Transport, Inner Membrane",P08839
+"Transport, Inner Membrane",P09323
+"Transport, Inner Membrane",P09551
+"Transport, Inner Membrane",P0A712
+"Transport, Inner Membrane",P0A742
+"Transport, Inner Membrane",P0A769
+"Transport, Inner Membrane",P0A830
+"Transport, Inner Membrane",P0A9S7
+"Transport, Inner Membrane",P0AA04
+"Transport, Inner Membrane",P0AA47
+"Transport, Inner Membrane",P0AA67
+"Transport, Inner Membrane",P0AA76
+"Transport, Inner Membrane",P0AA78
+"Transport, Inner Membrane",P0AA80
+"Transport, Inner Membrane",P0AA82
+"Transport, Inner Membrane",P0AAD2
+"Transport, Inner Membrane",P0AAD4
+"Transport, Inner Membrane",P0AAD6
+"Transport, Inner Membrane",P0AAD8
+"Transport, Inner Membrane",P0AAE0
+"Transport, Inner Membrane",P0AAE2
+"Transport, Inner Membrane",P0AAE5
+"Transport, Inner Membrane",P0AAE8
+"Transport, Inner Membrane",P0AAF1
+"Transport, Inner Membrane",P0AAF3
+"Transport, Inner Membrane",P0AAF6
+"Transport, Inner Membrane",P0AAG0
+"Transport, Inner Membrane",P0AAG3
+"Transport, Inner Membrane",P0AAG8
+"Transport, Inner Membrane",P0AAI1
+"Transport, Inner Membrane",P0AAT4
+"Transport, Inner Membrane",P0AB93
+"Transport, Inner Membrane",P0ABC9
+"Transport, Inner Membrane",P0ABD1
+"Transport, Inner Membrane",P0ABL8
+"Transport, Inner Membrane",P0ABM1
+"Transport, Inner Membrane",P0ABM5
+"Transport, Inner Membrane",P0ABN5
+"Transport, Inner Membrane",P0ABN9
+"Transport, Inner Membrane",P0ABP3
+"Transport, Inner Membrane",P0ABT8
+"Transport, Inner Membrane",P0AC23
+"Transport, Inner Membrane",P0AC94
+"Transport, Inner Membrane",P0AC96
+"Transport, Inner Membrane",P0AC98
+"Transport, Inner Membrane",P0AD96
+"Transport, Inner Membrane",P0AD99
+"Transport, Inner Membrane",P0ADL1
+"Transport, Inner Membrane",P0AE24
+"Transport, Inner Membrane",P0AE26
+"Transport, Inner Membrane",P0AE30
+"Transport, Inner Membrane",P0AE34
+"Transport, Inner Membrane",P0AE74
+"Transport, Inner Membrane",P0AEB5
+"Transport, Inner Membrane",P0AEE5
+"Transport, Inner Membrane",P0AEF8
+"Transport, Inner Membrane",P0AEG1
+"Transport, Inner Membrane",P0AEG6
+"Transport, Inner Membrane",P0AEM9
+"Transport, Inner Membrane",P0AEP1
+"Transport, Inner Membrane",P0AEQ3
+"Transport, Inner Membrane",P0AEQ6
+"Transport, Inner Membrane",P0AER0
+"Transport, Inner Membrane",P0AER3
+"Transport, Inner Membrane",P0AER5
+"Transport, Inner Membrane",P0AER8
+"Transport, Inner Membrane",P0AEU0
+"Transport, Inner Membrane",P0AEU3
+"Transport, Inner Membrane",P0AEX3
+"Transport, Inner Membrane",P0AEX7
+"Transport, Inner Membrane",P0AEX9
+"Transport, Inner Membrane",P0AF52
+"Transport, Inner Membrane",P0AFF2
+"Transport, Inner Membrane",P0AFF4
+"Transport, Inner Membrane",P0AFK2
+"Transport, Inner Membrane",P0AFK4
+"Transport, Inner Membrane",P0AFK6
+"Transport, Inner Membrane",P0AFK9
+"Transport, Inner Membrane",P0AFL1
+"Transport, Inner Membrane",P0AFM2
+"Transport, Inner Membrane",P0AFR2
+"Transport, Inner Membrane",P0AFR9
+"Transport, Inner Membrane",P0AFS1
+"Transport, Inner Membrane",P0AFS5
+"Transport, Inner Membrane",P0AFT2
+"Transport, Inner Membrane",P0AG34
+"Transport, Inner Membrane",P0AG38
+"Transport, Inner Membrane",P0AG80
+"Transport, Inner Membrane",P0AGC0
+"Transport, Inner Membrane",P0AGE4
+"Transport, Inner Membrane",P0AGF4
+"Transport, Inner Membrane",P0AGI1
+"Transport, Inner Membrane",P0AGI4
+"Transport, Inner Membrane",P0AGM7
+"Transport, Inner Membrane",P0AGM9
+"Transport, Inner Membrane",P0C0L7
+"Transport, Inner Membrane",P0C0S1
+"Transport, Inner Membrane",P0CE44
+"Transport, Inner Membrane",P0DP69
+"Transport, Inner Membrane",P10346
+"Transport, Inner Membrane",P10905
+"Transport, Inner Membrane",P10906
+"Transport, Inner Membrane",P10907
+"Transport, Inner Membrane",P11551
+"Transport, Inner Membrane",P11667
+"Transport, Inner Membrane",P14175
+"Transport, Inner Membrane",P14176
+"Transport, Inner Membrane",P15993
+"Transport, Inner Membrane",P16256
+"Transport, Inner Membrane",P16677
+"Transport, Inner Membrane",P16682
+"Transport, Inner Membrane",P17334
+"Transport, Inner Membrane",P17583
+"Transport, Inner Membrane",P19642
+"Transport, Inner Membrane",P20966
+"Transport, Inner Membrane",P21345
+"Transport, Inner Membrane",P22729
+"Transport, Inner Membrane",P22731
+"Transport, Inner Membrane",P23173
+"Transport, Inner Membrane",P23200
+"Transport, Inner Membrane",P23847
+"Transport, Inner Membrane",P23886
+"Transport, Inner Membrane",P23895
+"Transport, Inner Membrane",P24077
+"Transport, Inner Membrane",P24180
+"Transport, Inner Membrane",P24181
+"Transport, Inner Membrane",P24207
+"Transport, Inner Membrane",P24241
+"Transport, Inner Membrane",P25527
+"Transport, Inner Membrane",P25737
+"Transport, Inner Membrane",P27125
+"Transport, Inner Membrane",P28635
+"Transport, Inner Membrane",P29018
+"Transport, Inner Membrane",P30143
+"Transport, Inner Membrane",P30750
+"Transport, Inner Membrane",P30859
+"Transport, Inner Membrane",P30860
+"Transport, Inner Membrane",P31122
+"Transport, Inner Membrane",P31125
+"Transport, Inner Membrane",P31133
+"Transport, Inner Membrane",P31134
+"Transport, Inner Membrane",P31135
+"Transport, Inner Membrane",P31440
+"Transport, Inner Membrane",P31448
+"Transport, Inner Membrane",P31466
+"Transport, Inner Membrane",P31547
+"Transport, Inner Membrane",P31548
+"Transport, Inner Membrane",P31549
+"Transport, Inner Membrane",P31550
+"Transport, Inner Membrane",P31553
+"Transport, Inner Membrane",P31675
+"Transport, Inner Membrane",P32136
+"Transport, Inner Membrane",P32137
+"Transport, Inner Membrane",P32705
+"Transport, Inner Membrane",P32720
+"Transport, Inner Membrane",P32721
+"Transport, Inner Membrane",P33024
+"Transport, Inner Membrane",P33026
+"Transport, Inner Membrane",P33231
+"Transport, Inner Membrane",P33359
+"Transport, Inner Membrane",P33360
+"Transport, Inner Membrane",P33361
+"Transport, Inner Membrane",P33362
+"Transport, Inner Membrane",P33931
+"Transport, Inner Membrane",P36655
+"Transport, Inner Membrane",P36672
+"Transport, Inner Membrane",P36837
+"Transport, Inner Membrane",P37002
+"Transport, Inner Membrane",P37028
+"Transport, Inner Membrane",P37188
+"Transport, Inner Membrane",P37313
+"Transport, Inner Membrane",P37387
+"Transport, Inner Membrane",P37388
+"Transport, Inner Membrane",P37674
+"Transport, Inner Membrane",P37675
+"Transport, Inner Membrane",P37676
+"Transport, Inner Membrane",P37772
+"Transport, Inner Membrane",P37774
+"Transport, Inner Membrane",P37902
+"Transport, Inner Membrane",P38101
+"Transport, Inner Membrane",P39196
+"Transport, Inner Membrane",P39265
+"Transport, Inner Membrane",P39276
+"Transport, Inner Membrane",P39277
+"Transport, Inner Membrane",P39285
+"Transport, Inner Membrane",P39301
+"Transport, Inner Membrane",P39325
+"Transport, Inner Membrane",P39328
+"Transport, Inner Membrane",P39344
+"Transport, Inner Membrane",P39386
+"Transport, Inner Membrane",P39398
+"Transport, Inner Membrane",P39414
+"Transport, Inner Membrane",P39835
+"Transport, Inner Membrane",P41036
+"Transport, Inner Membrane",P43667
+"Transport, Inner Membrane",P45539
+"Transport, Inner Membrane",P45562
+"Transport, Inner Membrane",P46133
+"Transport, Inner Membrane",P46136
+"Transport, Inner Membrane",P46481
+"Transport, Inner Membrane",P46482
+"Transport, Inner Membrane",P52094
+"Transport, Inner Membrane",P54745
+"Transport, Inner Membrane",P56579
+"Transport, Inner Membrane",P56580
+"Transport, Inner Membrane",P60061
+"Transport, Inner Membrane",P60752
+"Transport, Inner Membrane",P60844
+"Transport, Inner Membrane",P63235
+"Transport, Inner Membrane",P64550
+"Transport, Inner Membrane",P67444
+"Transport, Inner Membrane",P68183
+"Transport, Inner Membrane",P68187
+"Transport, Inner Membrane",P69210
+"Transport, Inner Membrane",P69212
+"Transport, Inner Membrane",P69432
+"Transport, Inner Membrane",P69490
+"Transport, Inner Membrane",P69783
+"Transport, Inner Membrane",P69786
+"Transport, Inner Membrane",P69791
+"Transport, Inner Membrane",P69795
+"Transport, Inner Membrane",P69797
+"Transport, Inner Membrane",P69801
+"Transport, Inner Membrane",P69805
+"Transport, Inner Membrane",P69811
+"Transport, Inner Membrane",P69820
+"Transport, Inner Membrane",P69822
+"Transport, Inner Membrane",P69824
+"Transport, Inner Membrane",P69826
+"Transport, Inner Membrane",P69828
+"Transport, Inner Membrane",P69831
+"Transport, Inner Membrane",P69874
+"Transport, Inner Membrane",P75712
+"Transport, Inner Membrane",P75742
+"Transport, Inner Membrane",P75783
+"Transport, Inner Membrane",P75796
+"Transport, Inner Membrane",P75797
+"Transport, Inner Membrane",P75798
+"Transport, Inner Membrane",P75799
+"Transport, Inner Membrane",P75826
+"Transport, Inner Membrane",P75851
+"Transport, Inner Membrane",P75853
+"Transport, Inner Membrane",P75892
+"Transport, Inner Membrane",P75905
+"Transport, Inner Membrane",P76037
+"Transport, Inner Membrane",P76108
+"Transport, Inner Membrane",P76128
+"Transport, Inner Membrane",P76142
+"Transport, Inner Membrane",P76249
+"Transport, Inner Membrane",P76264
+"Transport, Inner Membrane",P76350
+"Transport, Inner Membrane",P76352
+"Transport, Inner Membrane",P76460
+"Transport, Inner Membrane",P76630
+"Transport, Inner Membrane",P77156
+"Transport, Inner Membrane",P77202
+"Transport, Inner Membrane",P77257
+"Transport, Inner Membrane",P77268
+"Transport, Inner Membrane",P77272
+"Transport, Inner Membrane",P77304
+"Transport, Inner Membrane",P77308
+"Transport, Inner Membrane",P77338
+"Transport, Inner Membrane",P77463
+"Transport, Inner Membrane",P77589
+"Transport, Inner Membrane",P77610
+"Transport, Inner Membrane",P77622
+"Transport, Inner Membrane",P77672
+"Transport, Inner Membrane",P77733
+"Transport, Inner Membrane",P77795
+"Transport, Inner Membrane",Q46817
+"Transport, Inner Membrane",Q46821
+"Transport, Inner Membrane",Q46839
+"Transport, Inner Membrane",Q46916
+"Transport, Inner Membrane",Q47142
+"Transport, Inner Membrane",Q47537
+"Transport, Inner Membrane",Q47538
+"Transport, Inner Membrane",Q47539
+"Transport, Inner Membrane",Q47689
+"Transport, Inner Membrane",Q6BEX0
+"Transport, Outer Membrane",P02916
+"Transport, Outer Membrane",P02925
+"Transport, Outer Membrane",P02929
+"Transport, Outer Membrane",P02930
+"Transport, Outer Membrane",P02931
+"Transport, Outer Membrane",P02932
+"Transport, Outer Membrane",P02943
+"Transport, Outer Membrane",P04982
+"Transport, Outer Membrane",P04983
+"Transport, Outer Membrane",P05825
+"Transport, Outer Membrane",P06129
+"Transport, Outer Membrane",P06971
+"Transport, Outer Membrane",P06996
+"Transport, Outer Membrane",P0A927
+"Transport, Outer Membrane",P0ABU7
+"Transport, Outer Membrane",P0ABV2
+"Transport, Outer Membrane",P0AE06
+"Transport, Outer Membrane",P0AEX9
+"Transport, Outer Membrane",P10384
+"Transport, Outer Membrane",P13036
+"Transport, Outer Membrane",P16869
+"Transport, Outer Membrane",P17315
+"Transport, Outer Membrane",P24177
+"Transport, Outer Membrane",P31224
+"Transport, Outer Membrane",P38054
+"Transport, Outer Membrane",P68187
+"Transport, Outer Membrane",P69856
+"Transport, Outer Membrane",P75780
+"Transport, Outer Membrane",P76773
+"Transport, Outer Membrane",P77211
+"Transport, Outer Membrane",P77214
+"Transport, Outer Membrane",P77239
+"Transport, Outer Membrane",P77747
+"Transport, Outer Membrane Porin",P02931
+"Transport, Outer Membrane Porin",P02932
+"Transport, Outer Membrane Porin",P06996
+"Transport, Outer Membrane Porin",P0A910
+"Transport, Outer Membrane Porin",P75733
+"Transport, Outer Membrane Porin",P76045
+"Transport, Outer Membrane Porin",P76773
+"Transport, Outer Membrane Porin",P77747
+tRNA Charging,P00954
+tRNA Charging,P00956
+tRNA Charging,P00957
+tRNA Charging,P00959
+tRNA Charging,P00960
+tRNA Charging,P00961
+tRNA Charging,P00962
+tRNA Charging,P04805
+tRNA Charging,P07118
+tRNA Charging,P07395
+tRNA Charging,P07813
+tRNA Charging,P08312
+tRNA Charging,P0A8L1
+tRNA Charging,P0A8M0
+tRNA Charging,P0A8M3
+tRNA Charging,P0A8N3
+tRNA Charging,P0A8N5
+tRNA Charging,P0AGJ9
+tRNA Charging,P11875
+tRNA Charging,P16659
+tRNA Charging,P21888
+tRNA Charging,P21889
+tRNA Charging,P60906
+"Tyr, Trp, and Phe Metabolism",P00509
+"Tyr, Trp, and Phe Metabolism",P00887
+"Tyr, Trp, and Phe Metabolism",P00888
+"Tyr, Trp, and Phe Metabolism",P00894
+"Tyr, Trp, and Phe Metabolism",P00895
+"Tyr, Trp, and Phe Metabolism",P00904
+"Tyr, Trp, and Phe Metabolism",P00909
+"Tyr, Trp, and Phe Metabolism",P04693
+"Tyr, Trp, and Phe Metabolism",P05194
+"Tyr, Trp, and Phe Metabolism",P07023
+"Tyr, Trp, and Phe Metabolism",P07639
+"Tyr, Trp, and Phe Metabolism",P0A6D3
+"Tyr, Trp, and Phe Metabolism",P0A6D5
+"Tyr, Trp, and Phe Metabolism",P0A6D7
+"Tyr, Trp, and Phe Metabolism",P0A6E1
+"Tyr, Trp, and Phe Metabolism",P0A853
+"Tyr, Trp, and Phe Metabolism",P0A877
+"Tyr, Trp, and Phe Metabolism",P0A879
+"Tyr, Trp, and Phe Metabolism",P0A9J8
+"Tyr, Trp, and Phe Metabolism",P0AB80
+"Tyr, Trp, and Phe Metabolism",P0AB91
+"Tyr, Trp, and Phe Metabolism",P0AE22
+"Tyr, Trp, and Phe Metabolism",P12008
+"Tyr, Trp, and Phe Metabolism",P15770
+"Tyr, Trp, and Phe Metabolism",P77567
+Unassigned,P0AEP7
+Unassigned,P37666
+Unassigned,P75913
+Unassigned,P77364
+Unassigned,P0A9B2
+Unassigned,P31806
+Unassigned,P00448
+Unassigned,P00634
+Unassigned,P06610
+Unassigned,P0A6M2
+Unassigned,P0A6V5
+Unassigned,P0AA25
+Unassigned,P0ABE9
+Unassigned,P0ABY4
+Unassigned,P0AC59
+Unassigned,P0AC62
+Unassigned,P0AC69
+Unassigned,P0AE08
+Unassigned,P0AE52
+Unassigned,P0AEG4
+Unassigned,P0AEG6
+Unassigned,P0AGD1
+Unassigned,P0AGD3
+Unassigned,P0AGG4
+Unassigned,P13029
+Unassigned,P16456
+Unassigned,P17444
+Unassigned,P17445
+Unassigned,P21179
+Unassigned,P23930
+Unassigned,P25397
+Unassigned,P28861
+Unassigned,P31142
+Unassigned,P35340
+Unassigned,P36655
+Unassigned,P55734
+Unassigned,P61517
+Unassigned,P61949
+Unassigned,P68688
+Unassigned,P69776
+Unassigned,P76145
+Unassigned,P77202
+"Val, Leu, and Ile Metabolism",P00893
+"Val, Leu, and Ile Metabolism",P04693
+"Val, Leu, and Ile Metabolism",P04968
+"Val, Leu, and Ile Metabolism",P05791
+"Val, Leu, and Ile Metabolism",P05793
+"Val, Leu, and Ile Metabolism",P08142
+"Val, Leu, and Ile Metabolism",P09053
+"Val, Leu, and Ile Metabolism",P09151
+"Val, Leu, and Ile Metabolism",P0A6A6
+"Val, Leu, and Ile Metabolism",P0AB80
+"Val, Leu, and Ile Metabolism",P0ADF8
+"Val, Leu, and Ile Metabolism",P0AGF6
+"Val, Leu, and Ile Metabolism",P30125
+"Val, Leu, and Ile Metabolism",P30126
+"Val, Leu, and Ile Metabolism",P76251

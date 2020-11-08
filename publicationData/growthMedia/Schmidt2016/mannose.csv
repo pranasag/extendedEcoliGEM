@@ -1,0 +1,21 @@
+"Reaction ID","Reaction Name","Subsystem","Reaction Formula","Lower Bound","Upper Bound"
+"R_EX_co2_e","CO2 exchange","None","1 M_co2_e <=> ",-1000,1000
+"R_EX_h_e","H+ exchange","None","1 M_h_e <=> ",-1000,1000
+"R_EX_h2o_e","H2O exchange","None","1 M_h2o_e <=> ",-1000,1000
+"R_EX_o2_e","O2 exchange","None","1 M_o2_e <=> ",-1000,1000
+"R_EX_na1_e","Sodium exchange","None","1 M_na1_e <=> ",-122.96,1000
+"R_EX_so4_e","Sulfate exchange","None","1 M_so4_e <=> ",-112.0563,1000
+"R_EX_pi_e","Phosphate exchange","None","1 M_pi_e <=> ",-64.2,1000
+"R_EX_nh4_e","Ammonia exchange","None","1 M_nh4_e <=> ",-22.68,1000
+"R_EX_k_e","K+ exchange","None","1 M_k_e <=> ",-22,1000
+"R_EX_cl_e","Chloride exchange","None","1 M_cl_e <=> ",-8.7892,1000
+"R_EX_mg2_e","Mg exchange","None","1 M_mg2_e <=> ",-1,1000
+"R_EX_ca2_e","Calcium exchange","None","1 M_ca2_e <=> ",-0.1,1000
+"R_EX_fe3_e","Fe3+ exchange","None","1 M_fe3_e <=> ",-0.06,1000
+"R_EX_cobalt2_e","Co2+ exchange","None","1 M_cobalt2_e <=> ",-0.0076,1000
+"R_EX_mn2_e","Mn2+ exchange","None","1 M_mn2_e <=> ",-0.0071,1000
+"R_EX_cu2_e","Cu2+ exchange","None","1 M_cu2_e <=> ",-0.007,1000
+"R_EX_zn2_e","Zinc exchange","None","1 M_zn2_e <=> ",-0.0063,1000
+"R_EX_thm_e","Thiamin exchange","None","1 M_thm_e > ",-0.0028,1000
+"R_EX_glc__D_e","D-Glucose exchange","None","1 M_glc__D_e <=> ",0,0
+"R_EX_man_e","D-Mannose exchange","None","1 M_man_e > ",-27.777777,1000
