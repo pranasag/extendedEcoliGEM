@@ -6,6 +6,10 @@
 [Systems Biology Lab](http://www.teusinkbruggemanlab.nl/), AIMMS, Vrije Universiteit Amsterdam, Amsterdam, the Netherlands
 
 ---
+## SBML3 model
+Fully working SBML3 FBCv2 model generated with this pipeline is available via [this link](https://surfdrive.surf.nl/files/index.php/s/4PuvHz482w7OuP7) or per request via email (the file is too large to be uploaded here).
+
+---
 ## Dependencies
 * [NCBI BLAST+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download) for search of homologous protein sequences using the SwissProt protein sequence DB
 * [CBMPy](https://github.com/SystemsBioinformatics/cbmpy) and its dependencies. 
